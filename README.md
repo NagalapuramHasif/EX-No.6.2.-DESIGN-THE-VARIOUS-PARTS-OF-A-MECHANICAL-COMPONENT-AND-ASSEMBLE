@@ -45,7 +45,7 @@ We follow the same steps for aligning the components onto their respective      
 If the components do not fit properly into the slots, it can be moved into the slot using the Move option.
 
 ## INPUT: 
-![image](https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png)
+![Screenshot 2023-12-11 135910](https://github.com/NagalapuramHasif/EX-No.6.2.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/149365567/e7997773-7a6f-46d0-b111-6cf51915594a)
 
 ## OUTPUT:
 
